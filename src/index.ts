@@ -6,4 +6,6 @@
 // import "./lessons/FileSystemModule/fs_create_methods";
 // import "./lessons/FileSystemModule/fs_update_methods";
 // import "./lessons/FileSystemModule/fs_delete_methods";
-import "./lessons/FileSystemModule/fs_rename_methods";
+// import "./lessons/FileSystemModule/fs_rename_methods";
+// import "./lessons/UrlModule/url_methods";
+import "./lessons/UrlModule/demo_fileserver"
