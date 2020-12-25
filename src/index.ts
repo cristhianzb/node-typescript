@@ -8,4 +8,5 @@
 // import "./lessons/FileSystemModule/fs_delete_methods";
 // import "./lessons/FileSystemModule/fs_rename_methods";
 // import "./lessons/UrlModule/url_methods";
-import "./lessons/UrlModule/demo_fileserver"
+// import "./lessons/UrlModule/demo_fileserver"
+import "./lessons/Npm/demo_uppercase"
