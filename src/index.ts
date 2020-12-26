@@ -11,4 +11,5 @@
 // import "./lessons/UrlModule/demo_fileserver"
 // import "./lessons/Npm/demo_uppercase"
 // import "./lessons/Events/example1"
-import "./lessons/Events/example2";
+// import "./lessons/Events/example2";
+import "./lessons/UploadFiles/uploader";
